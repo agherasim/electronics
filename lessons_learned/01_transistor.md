@@ -1,0 +1,3 @@
+- read the datasheet to identify the correct pin layout for Emitter, Base and Collector
+- Emitter is source, Collector is output
+- for 2N2222A, see https://lcsc.com/product-detail/Transistors-NPN-PNP_2N2222_C118536.html?gclid=CjwKCAjwwtTmBRBqEiwA-b6c_9a8CzOvBW9lQqNwsrxbTWizr9X9eyldtDoceId9sxj-cFo3E3-LnxoCv8YQAvD_BwE

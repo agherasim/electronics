@@ -1,0 +1,2 @@
+- see correct cathode (positive) and anode (GND) position
+- stripe usually represents cathode; incorrect direction will cause circuit to malfunction
